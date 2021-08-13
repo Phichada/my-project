@@ -41,7 +41,6 @@ Go to link5
 Close    
     Close Browser  
     
-    
 *** Test Cases ***
 Google search Keywords
     Open google page                    
