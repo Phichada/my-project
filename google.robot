@@ -40,7 +40,8 @@ Go to link5
     Wait Until Element Is Not Visible       xpath=(//*[@id="rso"]//a/h3)[5]         
 Close    
     Close Browser  
-    
+
+  
 *** Test Cases ***
 Google search Keywords
     Open google page                    
