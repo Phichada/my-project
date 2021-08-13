@@ -36,7 +36,7 @@ Test
     Open google page
     Search Keywords
     Open Page For Loop
-    Close Page
+    [Teardown]      Close Page
 
     # FOR    ${index}    IN RANGE    1    11
     #     Log    ${index}
